@@ -2,7 +2,7 @@
 
 ![recipes-logo](recipes-logo.png)
 
-🌟 Welcome to the Commerce on Lightning Web Components Starter Kit! 🛍️
+🌟 Welcome to the Commerce Messaging Lightning Web Components Starter Kit! 🛍️
 
 We're excited to present you with an ongoing development journey that aims to provide comprehensive building blocks for commerce agentic experience within MIAW. If you're a customer or partner looking to create a remarkable commerce agentic experience within MIAW that dazzles your users, then you've come to the right place.
 
