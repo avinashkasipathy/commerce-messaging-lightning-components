@@ -4,11 +4,11 @@
 
 🌟 Welcome to the Commerce Messaging Lightning Web Components Starter Kit! 🛍️
 
-We're excited to present you with an ongoing development journey that aims to provide comprehensive building blocks for commerce agentic experience within MIAW. If you're a customer or partner looking to create a remarkable commerce agentic experience within MIAW that dazzles your users, then you've come to the right place.
+We're excited to take you on an ongoing development journey designed to deliver robust building blocks for crafting agentic commerce experiences within MIAW. Whether you're a customer or partner looking to create a compelling, user-friendly commerce experience, you're in the right place.
 
-While the project is still in active development, we're committed to gradually releasing the essential components you need. Each release will bring you closer to achieving a seamless and efficient agentic experience. The goal is that with our meticulously crafted reference components at your disposal, you'll be able to effortlessly assemble dynamic product catalogs, seamless shopping carts, intuitive checkout processes, and so much more. You can focus on what truly matters – crafting a agentic experience that not only meets your customers' expectations but exceeds them.
+While the project is still under active development, we’re committed to gradually releasing the essential components you need. Each release will bring you closer to building a seamless, efficient agentic experience. With our carefully crafted reference components, you'll be empowered to assemble dynamic product recommendations, smooth shopping carts, intuitive checkout flows, and much more. This lets you focus on what truly matters – creating an agentic experience that not only meets but exceeds your users’ expectations.
 
-Join us on this exciting adventure as we shape the future of commerce messaging components development together. Happy coding and happy commerce building! ✨🚀
+Join us on this exciting journey as we shape the future of commerce messaging components together. Happy coding and happy commerce building! ✨🚀
 
 ---
 
