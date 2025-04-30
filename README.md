@@ -29,10 +29,10 @@ As you might expect, this project is organized as an SFDX (Salesforce DX) projec
     -   Install Visual Studio Code
     -   Install the Visual Studio Code Salesforce extensions, including the Lightning Web Components extension
 
-2.  If you haven't already done so, authorize your hub org and provide it with an alias (**myhuborg** in the command below):
+2.  If you haven't already done so, authorize your org:
 
     ```shell
-    sf org login web -d -a myhuborg
+    sf org login web --alias demo-org --instance-url "{org-login-url}"
     ```
 
 3.  Clone the repositoty `akasipathy/commerce-messaging-lightning-components`:
