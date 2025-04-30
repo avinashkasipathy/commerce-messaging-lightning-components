@@ -22,10 +22,10 @@
         <shortDescription>Common_NumberInput_inputAriaLabel</shortDescription>
     </labels>
     <labels>
-        <fullName>Product_Pricing_strikethroughAssistiveText</fullName>
+        <fullName>Common_Product_Pricing_strikethroughAssistiveText</fullName>
         <value>Crossed Out</value>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>Product_Pricing_strikethroughAssistiveText</shortDescription>
+        <shortDescription>Common_Product_Pricing_strikethroughAssistiveText</shortDescription>
     </labels>
 </CustomLabels>
