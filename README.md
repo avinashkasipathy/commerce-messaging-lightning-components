@@ -1,4 +1,4 @@
-# @salesforce/commerce-components
+# @salesforce/commerce-messaging-components
 
 ![recipes-logo](recipes-logo.png)
 
@@ -100,7 +100,7 @@ npm run format
 
 ### Worth Knowing
 
-The components you will find here are purely presentational components for various aspects of a miaw agentic experience.
+The components you will find here are purely presentational components for various aspects of a MIAW agentic experience.
 
 ### Overview
 
@@ -114,7 +114,6 @@ The components you will find here are purely presentational components for vario
 | [`c/commonProductPricing`](force-app/main/default/lwc/commonProductPricing)                       | Displays pricing information for products.                         | *                |
 
 ---
-
 
 ## Resources
 
