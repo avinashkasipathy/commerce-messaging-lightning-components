@@ -8,4 +8,6 @@ module.exports = {
     passWithNoTests: true,
     moduleNameMapper: {},
     setupFilesAfterEnv,
+    preset: '@lwc/jest-preset',
+    moduleFileExtensions: ['js', 'html'],
 };
