@@ -104,7 +104,7 @@ The components you will find here are purely presentational components for vario
 ### Overview
 
 <!-- prettier-ignore -->
-| Name/FQN                                                                                           | Description                                                        | Application Area |
+| Name/FQN                                                                                           | Description                                                        | Application Area     |
 |:---------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------|
 | [`c/commonButton`](force-app/main/default/lwc/commonButton)                                       | Custom `button` control.                                           | *                |
 | [`c/commonLink`](force-app/main/default/lwc/commonLink)                                           | Custom `a[href]` control with `button` styling.                    | *                |
