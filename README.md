@@ -1,7 +1,6 @@
 # @salesforce/commerce-messaging-components
 
-![recipes-logo](recipes-logo.png)
-
+![agent-logo](agent-logo.png)
 🌟 Welcome to the Commerce Messaging Lightning Web Components Starter Kit! 🛍️
 
 We're excited to take you on an ongoing development journey designed to deliver robust building blocks for crafting agentic commerce experiences within MIAW. Whether you're a customer or partner looking to create a compelling, user-friendly commerce experience, you're in the right place.
