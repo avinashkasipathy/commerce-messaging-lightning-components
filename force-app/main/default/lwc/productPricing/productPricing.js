@@ -7,7 +7,7 @@
  */
 import { LightningElement, api } from 'lwc';
 import { Labels } from './labels';
-import displayOriginalPriceEvaluator from './commonProductPricingUtils';
+import displayOriginalPriceEvaluator from './productPricingUtils';
 
 export default class CommonProductPricing extends LightningElement {
     static renderMode = 'light';
