@@ -1,0 +1,12 @@
+<template>
+    <div class={generateMessageBubbleClassname}>
+        <template if:true={isProductRecommendations}>
+            <c-product-search-recommendations
+                products={productData}
+                onaddtocart={handleAddToCart}></c-product-search-recommendations>
+        </template>
+        <template if:true={isRichTextContent}>
+            <lightning-formatted-rich-text value={textContent}></lightning-formatted-rich-text>
+        </template>
+    </div>
+</template>

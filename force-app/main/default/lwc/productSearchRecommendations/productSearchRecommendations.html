@@ -1,0 +1,32 @@
+<template lwc:render-mode="light">
+    <div class="product-list">
+        <template
+            for:each={products}
+            for:item="product"
+            for:index="index">
+            <div
+                key={product.name}
+                class="product-item">
+                <img
+                    src={product.cartLink}
+                    alt={product.name}
+                    class="product-image" />
+
+                <div class="product-info">
+                    <h3 class="product-name">{product.name}</h3>
+                    <p class="product-description">{product.description}</p>
+                </div>
+
+                <div class="product-action">
+                    <p class="product-price">${product.price}</p>
+                    <button
+                        class="buy-button"
+                        data-index={index}
+                        onclick={handleAddToCart}>
+                        BUY
+                    </button>
+                </div>
+            </div>
+        </template>
+    </div>
+</template>
