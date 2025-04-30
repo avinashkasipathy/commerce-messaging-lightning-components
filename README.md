@@ -95,6 +95,14 @@ npm run format
 
 ---
 
+## Development
+
+Our development workflow is based on working from forks rather than direct branches in the upstream repository. This approach allows each engineer to maintain their own workspace, reduces potential conflicts, and keeps our main repository stable until changes are thoroughly reviewed. We’d like to continue working this way because it provides a clear separation between development and production code while enabling contributors to iterate freely within their own fork before submitting pull requests for integration.
+
+If you work from forks and you see [Configuring a Remote For A Fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork), then do `git fetch upstream && git merge upstream/main`.
+
+---
+
 ## Components
 
 ### Worth Knowing
