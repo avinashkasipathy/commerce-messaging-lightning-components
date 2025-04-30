@@ -111,7 +111,8 @@ The components you will find here are purely presentational components for vario
 | [`c/commonModal`](force-app/main/default/lwc/commonModal)                                         | Custom `lightning/modal` that exposes two actions.                 | *                |
 | [`c/commonNumberInput`](force-app/main/default/lwc/commonNumberInput)                             | Custom `input[type=number]` control.                               | *                |
 | [`c/commonProductPricing`](force-app/main/default/lwc/commonProductPricing)                       | Displays pricing information for products.                         | *                |
-| [`c/dynamicContentRenderer`](force-app/main/default/lwc/dynamicContentRenderer)                       |Content renderer component designed to support a variety of rich experiences, depending on the contentType. When no contentType is provided, it defaults to rendering rich text.                         | *                |
+| [`c/productSearchRecommendations`](force-app/main/default/lwc/productSearchRecommendations)                       | Displays the product and category recommendations based off the search results                         | *                |
+| [`c/dynamicContentRenderer`](force-app/main/default/lwc/dynamicContentRenderer)<br/>`├──`[`c/productSearchRecommendations`](force-app/main/default/lwc/productSearchRecommendations)<br/> | Content renderer component designed to support a variety of rich experiences, depending on the contentType. When no contentType is provided, it defaults to rendering rich text.                         | *                |
 
 ---
 
