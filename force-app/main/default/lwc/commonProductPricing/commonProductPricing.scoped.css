@@ -26,7 +26,10 @@
 }
 .tax-info-label {
     color: var(--ref-c-common-product-pricing-tax-info-label-color, var(--com-c-product-details-tax-info-label-color));
-    font-size: var(--ref-c-common-product-pricing-tax-info-label-size, var(--com-c-product-details-tax-info-label-size));
+    font-size: var(
+        --ref-c-common-product-pricing-tax-info-label-size,
+        var(--com-c-product-details-tax-info-label-size)
+    );
 }
 .original-price {
     color: var(
